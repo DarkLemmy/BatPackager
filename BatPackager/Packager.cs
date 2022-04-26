@@ -69,7 +69,7 @@ namespace BatPackager
 
         private static string GetGenericSource()
         {
-            return Properties.Resources.GenericConsole;
+            return Properties.Resources.PackageApp;
         }
     }
 }

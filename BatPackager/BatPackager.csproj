@@ -58,11 +58,10 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="GenericConsole.cs" />
+    <Compile Include="PackageApp.cs" />
     <Compile Include="Packager.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <None Include="Resources\GenericConsole.cs" />
     <Compile Include="DarkLemmy\BatPackager\Properties.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>

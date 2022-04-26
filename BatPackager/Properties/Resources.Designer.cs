@@ -83,9 +83,9 @@ namespace BatPackager.Properties {
         ///
         ///            [rest of string was truncated]&quot;;.
         /// </summary>
-        public static string GenericConsole {
+        public static string PackageApp {
             get {
-                return ResourceManager.GetString("GenericConsole", resourceCulture);
+                return ResourceManager.GetString("PackageApp", resourceCulture);
             }
         }
     }
